@@ -1,4 +1,4 @@
-namespace Module1BaiSo8_HaPhuongQuynh
+namespace Module2BaiSo8_HuynhNhatGiaLac
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace Module1BaiSo8_HaPhuongQuynh
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new LinearEquation());
+            Application.Run(new frmBaiTap8());
         }
     }
 }

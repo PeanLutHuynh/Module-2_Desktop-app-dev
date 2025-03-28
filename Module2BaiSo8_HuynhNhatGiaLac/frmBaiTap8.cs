@@ -1,8 +1,8 @@
-﻿namespace Module1BaiSo8_HaPhuongQuynh
+﻿namespace Module2BaiSo8_HuynhNhatGiaLac
 {
-    public partial class LinearEquation : Form
+    public partial class frmBaiTap8 : Form
     {
-        public LinearEquation()
+        public frmBaiTap8()
         {
             InitializeComponent();
         }

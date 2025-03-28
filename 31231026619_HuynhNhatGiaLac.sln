@@ -4,8 +4,6 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module2", "Module2", "{B0807334-B39A-45CE-8A52-9F46AC8AF8D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo8_HuynhNhatGiaLac", "..\..\..\..\Users\metfc\Downloads\31231025001_HaPhuongQuynh-master\31231025001_HaPhuongQuynh-master\Module1BaiSo8_HaPhuongQuynh\Module2BaiSo8_HuynhNhatGiaLac.csproj", "{593922CC-EBC7-4A78-B604-4E0210BFB9EB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo1_HuynhNhatGiaLac", "Module2BaiSo1_HuynhNhatGiaLac\Module2BaiSo1_HuynhNhatGiaLac.csproj", "{A6C99C54-0DA7-4C0F-981A-175341D6AC17}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo2_HuynhNhatGiaLac", "Module2BaiSo2_HuynhNhatGiaLac\Module2BaiSo2_HuynhNhatGiaLac.csproj", "{553A48B8-6A6A-42F8-BD8D-C2F2435376CE}"
@@ -24,16 +22,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo9_HuynhNhatGiaL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo10_HuynhNhatGiaLac", "Module2BaiSo10_HuynhNhatGiaLac\Module2BaiSo10_HuynhNhatGiaLac.csproj", "{D334D360-17CA-44BB-81F9-D9DEC598A5D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo8_HuynhNhatGiaLac", "Module2BaiSo8_HuynhNhatGiaLac\Module2BaiSo8_HuynhNhatGiaLac.csproj", "{48CCDDFE-6BFD-4AE9-858E-F4FDFC21AE32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{593922CC-EBC7-4A78-B604-4E0210BFB9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{593922CC-EBC7-4A78-B604-4E0210BFB9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{593922CC-EBC7-4A78-B604-4E0210BFB9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{593922CC-EBC7-4A78-B604-4E0210BFB9EB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A6C99C54-0DA7-4C0F-981A-175341D6AC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A6C99C54-0DA7-4C0F-981A-175341D6AC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6C99C54-0DA7-4C0F-981A-175341D6AC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -70,12 +66,15 @@ Global
 		{D334D360-17CA-44BB-81F9-D9DEC598A5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D334D360-17CA-44BB-81F9-D9DEC598A5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D334D360-17CA-44BB-81F9-D9DEC598A5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48CCDDFE-6BFD-4AE9-858E-F4FDFC21AE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CCDDFE-6BFD-4AE9-858E-F4FDFC21AE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CCDDFE-6BFD-4AE9-858E-F4FDFC21AE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CCDDFE-6BFD-4AE9-858E-F4FDFC21AE32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{593922CC-EBC7-4A78-B604-4E0210BFB9EB} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
 		{A6C99C54-0DA7-4C0F-981A-175341D6AC17} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
 		{553A48B8-6A6A-42F8-BD8D-C2F2435376CE} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
 		{AD57B48F-71C3-4A14-A9BA-F848A6AFEA8C} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
@@ -85,6 +84,7 @@ Global
 		{CB32F4FA-C45E-4EAF-8260-6D210031E1CC} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
 		{473B657D-BAF2-455F-B43E-660EF68D0802} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
 		{D334D360-17CA-44BB-81F9-D9DEC598A5D2} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
+		{48CCDDFE-6BFD-4AE9-858E-F4FDFC21AE32} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F7EC1468-BB3C-4656-9FCC-D1FCD84EF587}
